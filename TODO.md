@@ -1,3 +1,4 @@
 - Add CKA-practice-exercises
 - Update ambient-it server and run exercices + CI
 - imagePullSecret: p. 87
+- connect to GKE qserv cluster
